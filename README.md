@@ -1,7 +1,7 @@
 # A Cpp Header for sorting
 
 
-Have included 6 sorting algorithms-
+Have included 6 sorting algorithms-  
 1.Selection sort  
 2.Merge sort  
 3.Quick sort  
@@ -34,7 +34,8 @@ selection_sort(a,n);
 g++ main.cpp  --->if sort.h and main.cpp are in the same folder  
 g++ -I /path/to/sort main.cpp   --->if main.cpp and sort.h are in different folders  
 
-#future work
+# future work
 
-Planning to add Radix sort. 
-Other are welcome to suggest and add. If a bug arises please inform and correct 
+Planning to add Radix sort.   
+Other are welcome to suggest and add.    
+ If bugs arises please inform and correct 
